@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Favourix Driver manager
+GenericName=Drivers
+Comment=Driver manager for Favourix OS
+Keywords=drivers;
+Exec=/usr/bin/drvmanager
+Icon=/usr/share/fx-drivers/src/drivers.svg
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Utility;Drivers;

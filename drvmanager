@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /usr/share/fx-drivers
+python ./fx-drivers.py
